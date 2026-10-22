@@ -1,0 +1,4 @@
+interface:
+  display_name: "Broll取材skill"
+  short_description: "从概念或线索核验一手依据，收集演示与趣味素材，保留来源并统一归档"
+  default_prompt: "使用 $video-evidence-broll 围绕我给的概念、问题、链接、截图或稿件调研，核对原始依据并收集相关演示与有趣素材，保留可核验来源，按本次需求下载并归档。"
